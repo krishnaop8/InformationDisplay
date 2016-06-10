@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InfoDisplay</string>
+    <string name="nameKey">nameText</string>
+    <string name="ageKey">ageText</string>
+    <string name="phoneKey">phoneText</string>
+    <string name="regKey">regText</string>
+    <string name="hiKey">hi</string>
+</resources>

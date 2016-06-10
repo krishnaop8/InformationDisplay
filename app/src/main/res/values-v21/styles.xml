@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mi" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:statusBarColor">#3a8afe</item>
+        <item name="android:navigationBarColor">#3a8afe</item>
+        <item name="android:colorAccent">#3a8afe</item>
+        <item name="android:textColorPrimary">#3a8afe</item>
+    </style>
+    <style name="MyButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#3a8afe</item>
+        <item name="colorButtonNormal">#3a5ace</item>
+    </style>
+
+</resources>
